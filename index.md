@@ -2,7 +2,8 @@
 
 ## About me
 Hello! My name is Ji, Shi from Henan province, China. I am a researcher mainly working on mathematics and AI currently. 
-![mypic](https://github.com/SHIJI9087/SHIJI9087.github.io/blob/master/mypic.jpg)
+
+![Image] (https://github.com/SHIJI9087/SHIJI9087.github.io/blob/master/mypic.jpg)
 
 ## Education
 - 2009 - 2013,  North China Electric Power University,  Infomation and Conputing Science,  BSc.
