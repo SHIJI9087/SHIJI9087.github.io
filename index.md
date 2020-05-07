@@ -13,7 +13,7 @@ Hello! My name is Ji, Shi from Henan province, China. I am a researcher mainly w
 - 2018.07 - 2020.05,  Beijing Huahang Radio Measurement Institute,  Engineer.
 
 ## Research programs
-I am interested in researing artificial interlligence(AI)'s fundmental theory and its applications in various pratical scenarios.
+I am interested in researing artificial interlligence's fundmental theory and its applications in various pratical scenarios.
 
 
 
